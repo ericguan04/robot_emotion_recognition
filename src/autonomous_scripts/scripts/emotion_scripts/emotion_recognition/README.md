@@ -1,1 +1,1 @@
-Application of facial expression recognition for human-robot interaction (HRI) research
+emotion_state.py uses DeepFace to determine the dominant emotion, then commands the turtlebot robot to follow a script depending on the dominant emotion
