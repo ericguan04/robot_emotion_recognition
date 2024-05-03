@@ -1,0 +1,8 @@
+prefix=/home/ericguan04/catkin_ws/install
+
+Name: autonomous_scripts
+Description: Description of autonomous_scripts
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

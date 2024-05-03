@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ericguan04/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ericguan04/catkin_ws/src/kobuki/kobuki_auto_docking/include/**",
+        "/home/ericguan04/catkin_ws/src/kobuki/kobuki_bumper2pc/include/**",
+        "/home/ericguan04/catkin_ws/src/kobuki/kobuki_controller_tutorial/include/**",
+        "/home/ericguan04/catkin_ws/src/kobuki/kobuki_keyop/include/**",
+        "/home/ericguan04/catkin_ws/src/kobuki/kobuki_node/include/**",
+        "/home/ericguan04/catkin_ws/src/kobuki/kobuki_random_walker/include/**",
+        "/home/ericguan04/catkin_ws/src/kobuki/kobuki_safety_controller/include/**",
+        "/home/ericguan04/catkin_ws/src/turtlebot_apps/turtlebot_actions/include/**",
+        "/home/ericguan04/catkin_ws/src/yocs_cmd_vel_mux/include/**",
+        "/home/ericguan04/catkin_ws/src/yocs_controllers/include/**",
+        "/home/ericguan04/catkin_ws/src/yocs_velocity_smoother/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
